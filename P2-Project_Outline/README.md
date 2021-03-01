@@ -17,6 +17,9 @@ This idea derived from learning about the aforementioned chapters 11-13. They we
     -Delete: Users may delete their feedback in case they needed to change their mind or their opinion.
     -Organization: Users can review the website's built-in calendar to see the time of date of their appointment.
     -Upload: Upload photos (i.e. account user's avatar, photo of the business and its location).
+    
+    Rough outline: 
+    https://imgur.com/a/i59ofVV
 ### Technologies
     -Java
     -Spring Boot
